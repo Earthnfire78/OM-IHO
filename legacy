@@ -1,3 +1,3 @@
-20120930,https://github.com/downloads/Earthnfire78/OM-IHO/OM-Mandylion-20120930.zip,Applied USSD-based attacks fix to Contacts system/app and replaced BacksideUpdater with IHO Updater-- Applied fix for stopping endless media scans with some jpeg files-- Updated kernel to OM-v4.2.1.7,98c06513d0a7622ac198a3d095efdb98,OM-Mandylion-20120930.zip,62~
+20120930,https://github.com/downloads/Earthnfire78/OM-IHO/OM-Mandylion-20120930.zip,Applied USSD-based attacks fix to Contacts system/app and replaced BacksideUpdater with IHO Updater-- Applied fix for stopping endless media scans with some jpeg files-- Updated kernel to OM-v4.2.1.7,5dc56ff2339e53915bd04199d468865e,OM-Mandylion-20120930.zip,62~
 20120927,http://www.mediafire.com/?pdq2727m5mm1mwj,Some more changes to the kernel-- Resynced with Cyanongenmod updating the code base and placed clock back to default position-- Plus fixed up build.prop,850bb2dd8de0ca188ff8104e879c54be,OM-Mandylion-20120927.zip,62~
 
