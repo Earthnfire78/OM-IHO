@@ -1,1 +1,0 @@
-VM670kerenl,https://github.com/downloads/Earthnfire78/OM-Mandylion_Stuff/VM670-OM-Kernel.zip,Applied UID_STAT dependencies and PM patches--  Hardware based floating point function instead of software base-- Ported Governors from candied-kernel source, Conservative CPUFREQ code from 3.0.8 kernel,a0df79a3b770107788af1221d2d02db0,VM670-OM-Kernel.zip,2~
